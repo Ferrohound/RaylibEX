@@ -12,6 +12,7 @@ The additions being:
 	
 I try to keep things fairly simple, you simply need to add the header and source files to your Raylib project and tell the compiler where to look in order to get the EXtra functionality!
 Or at least, that's the idea!
+This is a work in progress and I have a lot to learn.
 	
 There is still a lot to be done.
 
