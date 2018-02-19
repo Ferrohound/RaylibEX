@@ -1,6 +1,6 @@
 # RaylibEX
 
-Raylib Extra is my attempt to incorporate more basic functionality to <a href="http://www.raylib.com/index.html">Raylib</a> created by Ray while still keeping the hands-on feeling C++ coding aspect which drew me to Raylib in the first place!
+Raylib Extra is my attempt to incorporate more basic functionality to <a href="http://www.raylib.com/index.html">Raylib</a> created by Ray while keeping the hands-on aspect which drew me to Raylib in the first place!
 
 The additions being:
 *	A more standard way to handle scenes
